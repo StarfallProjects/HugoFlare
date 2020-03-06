@@ -1,0 +1,9 @@
+baseURL: "http://example.org/"
+languageCode: "en-uk"
+title: "My New Hugo Site"
+uglyURLs: true
+markup:
+  goldmark:
+    extensions:
+        renderer:
+            unsafe: true
